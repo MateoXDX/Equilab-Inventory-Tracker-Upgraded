@@ -1,6 +1,3 @@
-Here's the updated README with a comprehensive license section. I'll add an appropriate open-source license that would work well for an academic project:
-
-```markdown
 # EquiLab Inventory Tracker Upgraded
 
 A comprehensive laboratory inventory management system designed for the **Eulogio ‘Amang’ Rodriguez Institute of Science and Technology (EARIST)**. This application streamlines the tracking of laboratory equipment, manages borrowing requests, and generates insightful reports for efficient lab resource management.
@@ -67,7 +64,6 @@ Equilab-Inventory-Tracker-Upgraded/
 ├── schema.sql              # Database schema definition
 ├── test_main.py            # Unit tests
 ├── README.md               # Project documentation
-├── LICENSE                 # MIT License
 └── requirements.txt        # (Coming soon) Dependencies
 ```
 
@@ -169,50 +165,7 @@ Please ensure your code follows our coding standards and includes appropriate te
 
 ## 📄 License
 
-This project is licensed under the **MIT License** - a permissive open-source license that allows for academic and commercial use with minimal restrictions.
-
-### MIT License Summary
-
-| Permission | Conditions | Limitations |
-|------------|------------|-------------|
-| ✅ Commercial use | ✅ License and copyright notice | ⚠️ Liability |
-| ✅ Modification | | ⚠️ Warranty |
-| ✅ Distribution | | |
-| ✅ Private use | | |
-
-### Full License Text
-
-```
-MIT License
-
-Copyright (c) 2026 Eulogio ‘Amang’ Rodriguez Institute of Science and Technology (EARIST)
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
-### Why MIT License?
-
-The MIT License was chosen for this project because it:
-- **Supports Academic Freedom**: Allows students and faculty to freely use, modify, and learn from the code
-- **Encourages Collaboration**: Makes it easy for others to contribute and build upon the work
-- **Minimal Restrictions**: Provides freedom to use the code in other projects, including commercial applications
-- **Simple and Clear**: Easy to understand and comply with
+This project is developed for educational purposes at the Eulogio ‘Amang’ Rodriguez Institute of Science and Technology. All rights reserved.
 
 ---
 
@@ -237,37 +190,3 @@ The MIT License was chosen for this project because it:
 ---
 
 **EquiLab Inventory Tracker Upgraded** — Empowering EARIST's laboratories with efficient inventory management.
-```
-
-Additionally, you'll need to create a separate `LICENSE` file in your repository root with the following content:
-
-```
-MIT License
-
-Copyright (c) 2026 Eulogio ‘Amang’ Rodriguez Institute of Science and Technology (EARIST)
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
-This MIT License is perfect for an academic project as it:
-1. **Protects the institution** with the liability disclaimer
-2. **Allows educational use** by students and faculty
-3. **Permits future commercialization** if needed
-4. **Encourages collaboration** from the open-source community
-5. **Requires attribution** through the copyright notice

@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 const LAB_NAME = "Applied Physics Laboratory";
-const LAB_ROOM = "Room 201 — EARIST College of Arts and Sciences";
+const LAB_ROOM = "Room 407 — EARIST College of Arts and Sciences";
 
 const EQ0 = [
   { id:1, name:"Oscilloscope",       model:"Tektronix TBS1052B", serial:"TK-0021", condition:"Good",         category:"Electronics", quantity:3,  available:2, qrCode:"EQ-001", lastMaint:"2025-01-10", nextMaint:"2025-07-10" },
